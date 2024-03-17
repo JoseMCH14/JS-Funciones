@@ -40,7 +40,7 @@ if (event.key === 'a' || event.key === 'A') {
     pintar (background)
 } else if (event.key !== 'CapsLock'){
     tecla = event.key
-    alert("TRAMPA!!! Oprimiste la tecla "+tecla+"q. Por favor, sigue las instrucciones :D")
+    alert("TRAMPA!!! Oprimiste la tecla "+tecla+". Por favor, sigue las instrucciones :D")
 }
 })
 
